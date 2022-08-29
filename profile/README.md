@@ -4,13 +4,13 @@
   <h1>OneSignal</h1>
 
   <br />
-  <a href="https://documentation.onesignal.com/docs/onboarding-with-onesignal">Quickstart</a>
+  <a href="https://documentation.onesignal.com/docs/onboarding-with-onesignal" target="_blank">Quickstart</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://onesignal.com/">Website</a>
+  <a href="https://onesignal.com/" target="_blank">Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://documentation.onesignal.com/docs">Docs</a>
+  <a href="https://documentation.onesignal.com/docs" target="_blank">Docs</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://github.com/OneSignalDevelopers">Examples</a>
+  <a href="https://github.com/OneSignalDevelopers" target="_blank">Examples</a>
   <br />
   <hr />
 </div>
