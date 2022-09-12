@@ -21,7 +21,7 @@ OneSignal makes messaging customers simple. OneSignal is the fastest and most re
 
 ## :octocat: Code Repositories
 
-OneSignal proivdes code repositories through two GitHub Organizations:
+OneSignal provides code repositories through two GitHub Organizations:
 
 - Official OneSignal SDKs & Tooling are avialable through this organization and are listed in our [SDKs](https://github.com/OneSignal/sdks) repository.
 - Code Samples and Sample Applications are available through the [OneSignalDevelopers](https://github.com/OneSignalDevelopers) GitHub Organization.
