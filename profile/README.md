@@ -40,4 +40,4 @@ Get in touch with us or learn more about OneSignal through the channels below.
 
 # :rocket: Careers
 
-Interested in delivering customer messages at scale? Check out our [**Careers**](http://onesignal.com/careers) page and join OneSignal!
+Are you interested in delivering customer messages at scale? Check out our [Careers](http://onesignal.com/careers) and join our fast-growing team and help us continue to build the most widely-used customer engagement solution!
