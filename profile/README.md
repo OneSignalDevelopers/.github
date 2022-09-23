@@ -15,29 +15,29 @@
   <hr />
 </div>
 
-## 👋 Welcome
+# 👋 Welcome
 
-OneSignal makes messaging customers simple. OneSignal is the fastest and most reliable service to send push notifications, in-app messages, SMS, and emails.
+OneSignal makes engaging customers simple and is the fastest, most reliable service to send push notifications, in-app messages, SMS, and emails.
 
-## :octocat: Code Repositories
+# :octocat: Code Repositories
 
 OneSignal provides code repositories through two GitHub Organizations:
 
 - Official OneSignal SDKs & Tooling are avialable through this organization and are listed in our [SDKs](https://github.com/OneSignal/sdks) repository.
 - Code Samples and Sample Applications are available through the [OneSignalDevelopers](https://github.com/OneSignalDevelopers) GitHub Organization.
 
-## ❤️ Developer Community
+# ❤️ Developer Community
 
-Please join the [OneSignal Developer Community](https://onesignal.com/onesignal-developers) for additional resources.
+For additional resources, please join the [OneSignal Developer Community](https://onesignal.com/onesignal-developers).
 
-Get in touch with us or learn more about OneSignal through channels below.
+Get in touch with us or learn more about OneSignal through the channels below.
 
 - [Follow us on Twitter](https://twitter.com/onesignaldevs) to never miss any updates from the OneSignal team, ecosystem & community
 - [Join us on Discord](https://discord.gg/EP7gf6Uz7G) to be a part of the OneSignal Developers community, showcase your work and connect with other OneSignal developers
-- [OneSignal Blog](https://onesignal.com/blog/): Announcements, tutorials, in-depth articles & more
-- [YouTube](https://www.youtube.com/channel/UCe63d5EDQsSkOov-bIE_8Aw/featured): Video walkthroughs, courses, talks, workshops & more
-- [Twitch](https://www.twitch.tv/onesignaldevelopers): Livestreams, office hours, support & more
+- [Read the OneSignal Blog](https://onesignal.com/blog/) for the latest announcements, tutorials, in-depth articles & more.
+- [Subscribe to us on YouTube](https://www.youtube.com/channel/UCe63d5EDQsSkOov-bIE_8Aw/featured) for walkthroughs, courses, talks, workshops & more.
+- [Follow us on Twitch](https://www.twitch.tv/onesignaldevelopers) for live streams, office hours, support & more.
 
-## :rocket: Careers
+# :rocket: Careers
 
-Interested in delivering customer messages at scale? Check out our [**Careers**](http://onesignal.com/careers) page and join OneSignal!
+Are you interested in delivering customer messages at scale? Check out our [Careers](http://onesignal.com/careers) and join our fast-growing team and help us continue to build the most widely-used customer engagement solution!
